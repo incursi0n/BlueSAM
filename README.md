@@ -20,8 +20,10 @@ Command         Description
 (none)          Runs the BlueSAM BOF with the default target behavior.
 any argument    Shows this help menu.
 ```
+## Sample run
+<img width="1165" height="702" alt="image" src="https://github.com/user-attachments/assets/e1eaf4ea-61f0-4752-a023-6f1e027bd6f3" />
 
-Credits:
+## Credits:
 - https://github.com/Nightmare-Eclipse/BlueHammer
 - https://github.com/MEhrn00/boflink
 - https://github.com/trustedsec/CS-Situational-Awareness-BOF/tree/master/src/base_template
