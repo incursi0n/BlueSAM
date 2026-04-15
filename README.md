@@ -1,5 +1,5 @@
 # BlueSAM BOF
-A Cobalt Strike Beacon Object File adaptation of BlueSAM that attempts to obtain
+A Cobalt Strike Beacon Object File adaptation of BlueHammer that attempts to obtain
 a copy of the SAM database through Windows Defender update/VSS behavior and
 process offline registry data from Beacon.
 
